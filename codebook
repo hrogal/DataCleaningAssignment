@@ -1,0 +1,8 @@
+## Codebook
+The tidy data file contains the average values for the body acceleration and frequency means and standard deviations (STD) from the UCI
+activity monitor dataset. These values were provided as unitless.
+Variables:
+- subject: number 1  through 30
+- activity: The activity perfomred during the data collection.
+  There were 6: (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+- 178 variables recorded by the subject's phone, or calculated from those measurements
